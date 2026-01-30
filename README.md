@@ -5,7 +5,7 @@
 
 It is supposed to be a simple and fast app so it is easy to use
 
-Download: [releases](https://github.com/blazfxx/KeyHaven/releases/tag/v1)
+Download: [releases](https://github.com/blazfxx/KeyHaven/releases)
 
 # Features:
 
